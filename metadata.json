@@ -1,0 +1,5 @@
+{
+  "name": "PDF Analysis Report Generator",
+  "description": "An application to extract data from one or more PDF files using drag-and-drop and generate a comprehensive, structured analysis report for each document using the Gemini API.",
+  "requestFramePermissions": []
+}
